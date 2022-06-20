@@ -21,7 +21,3 @@ Create a simple dynamic website which has the following specifications.</br>
 **FRONT END**: HTML, CSS, JavaScript, Bootstrap
 **BACK END**: PHP
 **DATABASE**: MySQL
-
-The Website is Hosted at 000webhosting. 
-
-
